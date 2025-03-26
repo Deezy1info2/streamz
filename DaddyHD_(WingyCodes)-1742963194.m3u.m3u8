@@ -1,103 +1,178 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="beuiLh" tvg-name="Sky Sports Main Event" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2eaccad07f7cb347bbab39b8cc2a4a2b16029d16247eca468226bc512b1daff96" tvg-chno="1" group-title="",Sky Sports Main Event
-https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
-#EXTINF:-1 tvg-id="njZm8E" tvg-name="Sky Sports Cricket" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2391e415d01ae774e3ed66d0edf826466d6a96e5eb7ee1db80f95e3c5a6f81cd4" tvg-chno="2" group-title="",Sky Sports Cricket
-https://cricman.xyz/watch.php?id=njZm8E&format=.m3u8
-#EXTINF:-1 tvg-id="0RVksL" tvg-name="Sky Sports Action" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef20db99d201fdb191be5ab03c650ad2cd4a773ebfaa23d1ba49541988a032950a3" tvg-chno="3" group-title="",Sky Sports Action
-https://cricman.xyz/watch.php?id=0RVksL&format=.m3u8
-#EXTINF:-1 tvg-id="XyNAYv" tvg-name="Sky Sports Golf" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef27d0c4498b9189bdb991f9b89541330351fa33c4084b6f7ab19a2dc923d8b80cb" tvg-chno="4" group-title="",Sky Sports Golf
-https://cricman.xyz/watch.php?id=XyNAYv&format=.m3u8
-#EXTINF:-1 tvg-id="BTvXrR" tvg-name="Sky Sports Premiere League" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2cbf070df123e3ee15d649d96145d7310fd9fa91559af6eb3e077a699353fb2e4" tvg-chno="5" group-title="",Sky Sports Premiere League
-https://cricman.xyz/watch.php?id=BTvXrR&format=.m3u8
-#EXTINF:-1 tvg-id="oThYz3" tvg-name="Sky Sports Football" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef27f4def5b08301fb264bcac656d01c701d5fa65614c303e0ef6b94a5d41c2fc0d" tvg-chno="6" group-title="",Sky Sports Football
-https://cricman.xyz/watch.php?id=oThYz3&format=.m3u8
-#EXTINF:-1 tvg-id="v9HbT5" tvg-name="Sky Sports Arena" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef23ee6f3b4eaa7f25a8dc84b7d6f6fe61724499cb715dde09758fa239511a9e138" tvg-chno="7" group-title="",Sky Sports Arena
-https://cricman.xyz/watch.php?id=v9HbT5&format=.m3u8
-#EXTINF:-1 tvg-id="Un3O6s" tvg-name="Sky Sports F1" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef237a8a463cbda4380f324794f59883f1d5a4eb0af71a866e89edfef1c2071430b" tvg-chno="8" group-title="",Sky Sports F1
-https://cricman.xyz/watch.php?id=Un3O6s&format=.m3u8
-#EXTINF:-1 tvg-id="ZGiFHJ" tvg-name="Sky Sports Mix" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef218082a05d31d2f0e2300f96b037de95df0c1ccbaac7df797fc6b823779fcb771" tvg-chno="9" group-title="",Sky Sports Mix
-https://cricman.xyz/watch.php?id=ZGiFHJ&format=.m3u8
-#EXTINF:-1 tvg-id="gYD0Gh" tvg-name="Sky Sports News" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef22ba68e0cf7673799297804e5c768bae32bed1fe46c12f9b42c1f4072e0a919d9" tvg-chno="10" group-title="",Sky Sports News
-https://cricman.xyz/watch.php?id=gYD0Gh&format=.m3u8
-#EXTINF:-1 tvg-id="bUgnik" tvg-name="Sky Sports Tennis" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=b112c431a37a7173d0635276da36b0c7d36ca15e1d1d1f793f62fa6dd8fdf14571eb6e6d1eceb0ce5674b9e8b828e7bd" tvg-chno="11" group-title="",Sky Sports Tennis
-https://cricman.xyz/watch.php?id=bUgnik&format=.m3u8
-#EXTINF:-1 tvg-id="Yu7xik" tvg-name="TNT Sports 1" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2e2924521389d9f03fc2fca7cd51456f67bc280a05c2327857ec3f64870d141ec" tvg-chno="12" group-title="",TNT Sports 1
-https://cricman.xyz/watch.php?id=Yu7xik&format=.m3u8
-#EXTINF:-1 tvg-id="qcEITV" tvg-name="TNT Sports 2" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef27f726c47105591a41a991ae4505bcecd772fa4442a2fd3650edd08b14219bc8a" tvg-chno="13" group-title="",TNT Sports 2
-https://cricman.xyz/watch.php?id=qcEITV&format=.m3u8
-#EXTINF:-1 tvg-id="zzWRpe" tvg-name="TNT Sports 3" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef25ece6b5a1666f041a2be833f4a4844bad46ef2bf5a894723727e6bdb279687af" tvg-chno="14" group-title="",TNT Sports 3
-https://cricman.xyz/watch.php?id=zzWRpe&format=.m3u8
-#EXTINF:-1 tvg-id="xMKtYe" tvg-name="TNT Sports 4" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef26f06a9bf20ce982b3a1bf84a6bfcd5f8fc432ed9111c94018dce6f36fbe494de" tvg-chno="15" group-title="",TNT Sports 4
-https://cricman.xyz/watch.php?id=xMKtYe&format=.m3u8
-#EXTINF:-1 tvg-id="e049dv" tvg-name="Euro Sport 1" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066bc90acf15ffb69e7f8c8718a29116e61b" tvg-chno="16" group-title="",Euro Sport 1
-https://cricman.xyz/watch.php?id=e049dv&format=.m3u8
-#EXTINF:-1 tvg-id="L4sGPW" tvg-name="Euro Sport 2" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2a553e3bb6e8c5790a017f9f9c2e1108c07a0f70b2617d04d24d332c3d47b8c7f" tvg-chno="17" group-title="",Euro Sport 2
-https://cricman.xyz/watch.php?id=L4sGPW&format=.m3u8
-#EXTINF:-1 tvg-id="1XV0ya" tvg-name="Premiere Sports" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef27592eff78a1637a5088c54689a02075d1bcf77aa55e6d007d8ddafe7dbfb9144" tvg-chno="18" group-title="",Premiere Sports
-https://cricman.xyz/watch.php?id=1XV0ya&format=.m3u8
-#EXTINF:-1 tvg-id="hfA3HT" tvg-name="Laliga UK" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef298000280319eb6e813ef48b874d2572a2def33e4b9f383cfa93ccf7e9f94bff7" tvg-chno="19" group-title="",Laliga UK
-https://cricman.xyz/watch.php?id=hfA3HT&format=.m3u8
-#EXTINF:-1 tvg-id="70Gn7T" tvg-name="Sky Sport 1" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef26f06a9bf20ce982b3a1bf84a6bfcd5f8161cb1661ab30c75272d746ad4ef06a0" tvg-chno="20" group-title="",Sky Sport 1
-https://cricman.xyz/watch.php?id=70Gn7T&format=.m3u8
-#EXTINF:-1 tvg-id="NXqJJV" tvg-name="Sky Sport 2" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef26f06a9bf20ce982b3a1bf84a6bfcd5f8af58a3ed454df2d3ee375666671e87e0" tvg-chno="21" group-title="",Sky Sport 2
-https://cricman.xyz/watch.php?id=NXqJJV&format=.m3u8
-#EXTINF:-1 tvg-id="BtwF2a" tvg-name="Sky Sport 3" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066be65c206a13ff68f2eec6b01e669e312c" tvg-chno="22" group-title="",Sky Sport 3
-https://cricman.xyz/watch.php?id=BtwF2a&format=.m3u8
-#EXTINF:-1 tvg-id="vW70Vv" tvg-name="Sky Sport 4" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef26f06a9bf20ce982b3a1bf84a6bfcd5f8ef6a195fc994c93f72c20bb7ba4862d9" tvg-chno="23" group-title="",Sky Sport 4
-https://cricman.xyz/watch.php?id=vW70Vv&format=.m3u8
-#EXTINF:-1 tvg-id="K4bgDm" tvg-name="Sky Sport 5" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066b05f1b4f68e442ceae50cb9365f58ffa5" tvg-chno="24" group-title="",Sky Sport 5
-https://cricman.xyz/watch.php?id=K4bgDm&format=.m3u8
-#EXTINF:-1 tvg-id="JM1ZQh" tvg-name="Sky Sport 6" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066b2bbb5b9515bb8d8a5fe89bf9fbb7d1d6" tvg-chno="25" group-title="",Sky Sport 6
-https://cricman.xyz/watch.php?id=JM1ZQh&format=.m3u8
-#EXTINF:-1 tvg-id="j4dWnY" tvg-name="Sky Sport 7" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066b2a86b7d0be2b09fa96821a266fea05b7" tvg-chno="26" group-title="",Sky Sport 7
-https://cricman.xyz/watch.php?id=j4dWnY&format=.m3u8
-#EXTINF:-1 tvg-id="s3j6fY" tvg-name="Sky Sport 8" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066b87d0b2c20d279254dc39653f842133ce" tvg-chno="27" group-title="",Sky Sport 8
-https://cricman.xyz/watch.php?id=s3j6fY&format=.m3u8
-#EXTINF:-1 tvg-id="g9QlcM" tvg-name="Sky Sport 9" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066b4a5f4f895e24bd4ab1ea66af8cc291f0" tvg-chno="28" group-title="",Sky Sport 9
-https://cricman.xyz/watch.php?id=g9QlcM&format=.m3u8
-#EXTINF:-1 tvg-id="kNdLEI" tvg-name="Super Sport Football" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef247cf6ca445d3ff99a114d90025ebab2c7c14a6fe074f58c46c3dce2e5c05c0bb" tvg-chno="29" group-title="",Super Sport Football
-https://cricman.xyz/watch.php?id=kNdLEI&format=.m3u8
-#EXTINF:-1 tvg-id="i0nb8s" tvg-name="Super Sport Premiere League" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2c86fbaa7f9ca98a0948553746f0d75b96cc368b9621710a76beb6dc78b35b554" tvg-chno="30" group-title="",Super Sport Premiere League
-https://cricman.xyz/watch.php?id=i0nb8s&format=.m3u8
-#EXTINF:-1 tvg-id="2uZxyz" tvg-name="Super Sport Laliga" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2f819200c1c27f9ed05d0932849138d8dd99bcf0c3813fac3adc51739680d0129" tvg-chno="31" group-title="",Super Sport Laliga
-https://cricman.xyz/watch.php?id=2uZxyz&format=.m3u8
-#EXTINF:-1 tvg-id="66axKo" tvg-name="Super Sport Rugby" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2c9715725fccc434b41528a08700bf2ec9d41493938fa8749bd5ea9785f91fb50" tvg-chno="32" group-title="",Super Sport Rugby
-https://cricman.xyz/watch.php?id=66axKo&format=.m3u8
-#EXTINF:-1 tvg-id="ptoiqf" tvg-name="Super Sport Grandstand" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2c03f8c8d91a59fadea2878cccaa60638c07b361bf6f7a21fca2988bf0408f720" tvg-chno="33" group-title="",Super Sport Grandstand
-https://cricman.xyz/watch.php?id=ptoiqf&format=.m3u8
-#EXTINF:-1 tvg-id="62apMx" tvg-name="Super Sport Tennis" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef29523061c27783f147b6d57a787e92af379f151515e4f307257c51135f9953d7d" tvg-chno="34" group-title="",Super Sport Tennis
-https://cricman.xyz/watch.php?id=62apMx&format=.m3u8
-#EXTINF:-1 tvg-id="CzWK6h" tvg-name="Super Sport Action" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2adc203bbb054c657e8f94173605e432da885aff3af2ac766d1334bd2f1beb2ce" tvg-chno="35" group-title="",Super Sport Action
-https://cricman.xyz/watch.php?id=CzWK6h&format=.m3u8
-#EXTINF:-1 tvg-id="5oKN90" tvg-name="Super Sport Golf" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2e2924521389d9f03fc2fca7cd51456f6f58df7d47fad630deb99b9225426d0be" tvg-chno="36" group-title="",Super Sport Golf
-https://cricman.xyz/watch.php?id=5oKN90&format=.m3u8
-#EXTINF:-1 tvg-id="P19q7b" tvg-name="Super Sport Maximo" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2e2924521389d9f03fc2fca7cd51456f6fbfc4e198777b192acea95e500c5375d" tvg-chno="37" group-title="",Super Sport Maximo
-https://cricman.xyz/watch.php?id=P19q7b&format=.m3u8
-#EXTINF:-1 tvg-id="clhGKY" tvg-name="Super Sport PSL" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef25ece6b5a1666f041a2be833f4a4844ba259dc946005c615b1a835c84fe3b31dd" tvg-chno="38" group-title="",Super Sport PSL
-https://cricman.xyz/watch.php?id=clhGKY&format=.m3u8
-#EXTINF:-1 tvg-id="zMXIn8" tvg-name="PTV Sports" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2f681048503a91318fd7bc1b5151e7776e761263a60e552e52c2beda504bce4d0" tvg-chno="39" group-title="",PTV Sports
-https://cricman.xyz/watch.php?id=zMXIn8&format=.m3u8
-#EXTINF:-1 tvg-id="BI3vZo" tvg-name="Star Sports 1" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2c3a0d12c9263e9a452d9812901324461e3e03424c17ad25db5aaaa94fb6495c8" tvg-chno="40" group-title="",Star Sports 1
-https://cricman.xyz/watch.php?id=BI3vZo&format=.m3u8
-#EXTINF:-1 tvg-id="YPnBNw" tvg-name="Willow HD" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef27578faf53117c1309a2f83e130813ab92831e6027ba4ef8bc7fb0e72501be9aa" tvg-chno="41" group-title="",Willow HD
-https://cricman.xyz/watch.php?id=YPnBNw&format=.m3u8
-#EXTINF:-1 tvg-id="aYFEfq" tvg-name="Super Sport Cricket" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2a8f74fc7981196409b346996208be52a48bbd14fc3716cf3846083148a79f849" tvg-chno="42" group-title="",Super Sport Cricket
-https://cricman.xyz/watch.php?id=aYFEfq&format=.m3u8
-#EXTINF:-1 tvg-id="uC2N8u" tvg-name="Ten Sports" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef22844f50cc3a6546d92b5d820dfe026d6f8496cb409091d13329c6f4bd287a629" tvg-chno="43" group-title="",Ten Sports
-https://cricman.xyz/watch.php?id=uC2N8u&format=.m3u8
-#EXTINF:-1 tvg-id="EQJm56" tvg-name="Star Sports 1 Hindi" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2fb178d3029255b4eac6317c3a1d123617197472918339d5e51f0599c6e5a446e" tvg-chno="44" group-title="",Star Sports 1 Hindi
-https://cricman.xyz/watch.php?id=EQJm56&format=.m3u8
-#EXTINF:-1 tvg-id="xTcqrQ" tvg-name="Star Sports 2" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef21696d18fd9a07062a6c38bf991a953640e45d095b820a4555d1d149ac2ad7428" tvg-chno="45" group-title="",Star Sports 2
-https://cricman.xyz/watch.php?id=xTcqrQ&format=.m3u8
-#EXTINF:-1 tvg-id="qvHPOu" tvg-name="Willow Xtra" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef227f332ec695db1e7f2f0e8f31b88ce93d1a57315dd6d3b48836f374ef8ed0075" tvg-chno="46" group-title="",Willow Xtra
-https://cricman.xyz/watch.php?id=qvHPOu&format=.m3u8
-#EXTINF:-1 tvg-id="nP3hlu" tvg-name="A Sports HD" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef251547225d025a440c8969cef2d5ded205aa79474d7057d121376b6bada57c707" tvg-chno="47" group-title="",A Sports HD
-https://cricman.xyz/watch.php?id=nP3hlu&format=.m3u8
-#EXTINF:-1 tvg-id="CqRz0D" tvg-name="Fox Cricket" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef23864c94990bacf27386d0d09e7ec05a1b05ea085feb5a0cd49d1e33575caa93e" tvg-chno="48" group-title="",Fox Cricket
-https://cricman.xyz/watch.php?id=CqRz0D&format=.m3u8
-#EXTINF:-1 tvg-id="mtFQcD" tvg-name="ESPN" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066b1d4b8704753bc6badc991325174267ca" tvg-chno="49" group-title="",ESPN
-https://cricman.xyz/watch.php?id=mtFQcD&format=.m3u8
-#EXTINF:-1 tvg-id="w385ky" tvg-name="ESPN 2" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066ba4f2d2936be503ab4306fb514c80a8e6" tvg-chno="50" group-title="",ESPN 2
-https://cricman.xyz/watch.php?id=w385ky&format=.m3u8
-#EXTINF:-1 tvg-id="A5eTB8" tvg-name="Geo Super" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2240427ba5f44339cb652f9c48dd1234b8a75c097eabfe86565d578e58f47a3a7" tvg-chno="51" group-title="",Geo Super
-https://cricman.xyz/watch.php?id=A5eTB8&format=.m3u8
+#EXTINF:-1 tvg-id="1" tvg-name="ABC USA" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="1" group-title="",ABC USA
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=51
+#EXTINF:-1 tvg-id="2" tvg-name="A&E USA" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="2" group-title="",A&E USA
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=302
+#EXTINF:-1 tvg-id="3" tvg-name="AMC USA" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="3" group-title="",AMC USA
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=303
+#EXTINF:-1 tvg-id="4" tvg-name="Animal Planet" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="4" group-title="",Animal Planet
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=304
+#EXTINF:-1 tvg-id="5" tvg-name="ACC Network USA" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="5" group-title="",ACC Network USA
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=666
+#EXTINF:-1 tvg-id="6" tvg-name="Astro SuperSport 1" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="6" group-title="",Astro SuperSport 1
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=123
+#EXTINF:-1 tvg-id="7" tvg-name="Astro SuperSport 2" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="7" group-title="",Astro SuperSport 2
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=124
+#EXTINF:-1 tvg-id="8" tvg-name="Astro SuperSport 3" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="8" group-title="",Astro SuperSport 3
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=125
+#EXTINF:-1 tvg-id="9" tvg-name="Astro SuperSport 4" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="9" group-title="",Astro SuperSport 4
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=126
+#EXTINF:-1 tvg-id="10" tvg-name="Arena Sport 1 Premium" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="10" group-title="",Arena Sport 1 Premium
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=134
+#EXTINF:-1 tvg-id="11" tvg-name="Arena Sport 2 Premium" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="11" group-title="",Arena Sport 2 Premium
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=135
+#EXTINF:-1 tvg-id="12" tvg-name="Arena Sport 3 Premium" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="12" group-title="",Arena Sport 3 Premium
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=139
+#EXTINF:-1 tvg-id="13" tvg-name="Arena Sport 1 Serbia" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="13" group-title="",Arena Sport 1 Serbia
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=429
+#EXTINF:-1 tvg-id="14" tvg-name="Arena Sport 2 Serbia" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="14" group-title="",Arena Sport 2 Serbia
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=430
+#EXTINF:-1 tvg-id="15" tvg-name="Arena Sport 3 Serbia" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="15" group-title="",Arena Sport 3 Serbia
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=431
+#EXTINF:-1 tvg-id="16" tvg-name="Arena Sport 4 Serbia" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="16" group-title="",Arena Sport 4 Serbia
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=581
+#EXTINF:-1 tvg-id="17" tvg-name="Arena Sport 1 Croatia" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="17" group-title="",Arena Sport 1 Croatia
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=432
+#EXTINF:-1 tvg-id="18" tvg-name="Arena Sport 2 Croatia" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="18" group-title="",Arena Sport 2 Croatia
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=433
+#EXTINF:-1 tvg-id="19" tvg-name="Arena Sport 3 Croatia" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="19" group-title="",Arena Sport 3 Croatia
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=434
+#EXTINF:-1 tvg-id="20" tvg-name="Arena Sport 4 Croatia" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="20" group-title="",Arena Sport 4 Croatia
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=580
+#EXTINF:-1 tvg-id="21" tvg-name="Alkass One" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="21" group-title="",Alkass One
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=781
+#EXTINF:-1 tvg-id="22" tvg-name="Alkass Two" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="22" group-title="",Alkass Two
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=782
+#EXTINF:-1 tvg-id="23" tvg-name="Alkass Three" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="23" group-title="",Alkass Three
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=783
+#EXTINF:-1 tvg-id="24" tvg-name="Alkass Four" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="24" group-title="",Alkass Four
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=784
+#EXTINF:-1 tvg-id="25" tvg-name="ABS-CBN" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="25" group-title="",ABS-CBN
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=785
+#EXTINF:-1 tvg-id="26" tvg-name="Arena Sport 1 BiH" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="26" group-title="",Arena Sport 1 BiH
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=579
+#EXTINF:-1 tvg-id="27" tvg-name="Abu Dhabi Sports 1 UAE" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="27" group-title="",Abu Dhabi Sports 1 UAE
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=600
+#EXTINF:-1 tvg-id="28" tvg-name="Abu Dhabi Sports 2 UAE" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="28" group-title="",Abu Dhabi Sports 2 UAE
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=601
+#EXTINF:-1 tvg-id="29" tvg-name="Abu Dhabi Sports 1 Premium" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="29" group-title="",Abu Dhabi Sports 1 Premium
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=609
+#EXTINF:-1 tvg-id="30" tvg-name="Abu Dhabi Sports 2 Premium" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="30" group-title="",Abu Dhabi Sports 2 Premium
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=610
+#EXTINF:-1 tvg-id="31" tvg-name="Astro Cricket" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="31" group-title="",Astro Cricket
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=370
+#EXTINF:-1 tvg-id="32" tvg-name="Antena 3 Spain" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="32" group-title="",Antena 3 Spain
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=531
+#EXTINF:-1 tvg-id="33" tvg-name="ACC Network USA" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="33" group-title="",ACC Network USA
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=664
+#EXTINF:-1 tvg-id="34" tvg-name="Adult Swim" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="34" group-title="",Adult Swim
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=295
+#EXTINF:-1 tvg-id="35" tvg-name="AXN Movies Portugal" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="35" group-title="",AXN Movies Portugal
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=717
+#EXTINF:-1 tvg-id="36" tvg-name="Arte DE" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="36" group-title="",Arte DE
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=725
+#EXTINF:-1 tvg-id="37" tvg-name="AXS TV USA" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="37" group-title="",AXS TV USA
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=742
+#EXTINF:-1 tvg-id="38" tvg-name="ABCNY USA" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="38" group-title="",ABCNY USA
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=766
+#EXTINF:-1 tvg-id="39" tvg-name="beIN Sports MENA English 1" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="39" group-title="",beIN Sports MENA English 1
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=61
+#EXTINF:-1 tvg-id="40" tvg-name="beIN Sports MENA English 2" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="40" group-title="",beIN Sports MENA English 2
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=90
+#EXTINF:-1 tvg-id="41" tvg-name="beIN Sports MENA English 3" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="41" group-title="",beIN Sports MENA English 3
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=46
+#EXTINF:-1 tvg-id="42" tvg-name="beIN Sports MENA 1" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="42" group-title="",beIN Sports MENA 1
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=91
+#EXTINF:-1 tvg-id="43" tvg-name="beIN Sports MENA 2" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="43" group-title="",beIN Sports MENA 2
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=92
+#EXTINF:-1 tvg-id="44" tvg-name="beIN Sports MENA 3" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="44" group-title="",beIN Sports MENA 3
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=93
+#EXTINF:-1 tvg-id="45" tvg-name="beIN Sports MENA 4" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="45" group-title="",beIN Sports MENA 4
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=94
+#EXTINF:-1 tvg-id="46" tvg-name="beIN Sports MENA 5" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="46" group-title="",beIN Sports MENA 5
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=95
+#EXTINF:-1 tvg-id="47" tvg-name="beIN Sports MENA 6" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="47" group-title="",beIN Sports MENA 6
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=96
+#EXTINF:-1 tvg-id="48" tvg-name="beIN Sports MENA 7" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="48" group-title="",beIN Sports MENA 7
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=97
+#EXTINF:-1 tvg-id="49" tvg-name="beIN Sports MENA Premium 1" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="49" group-title="",beIN Sports MENA Premium 1
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=98
+#EXTINF:-1 tvg-id="50" tvg-name="beIN Sports MENA Premium 2" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="50" group-title="",beIN Sports MENA Premium 2
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=99
+#EXTINF:-1 tvg-id="51" tvg-name="beIN Sports MENA Premium 3" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="51" group-title="",beIN Sports MENA Premium 3
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=100
+#EXTINF:-1 tvg-id="52" tvg-name="beIN Sports MAX 4 France" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="52" group-title="",beIN Sports MAX 4 France
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=494
+#EXTINF:-1 tvg-id="53" tvg-name="beIN Sports MAX 5 France" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="53" group-title="",beIN Sports MAX 5 France
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=495
+#EXTINF:-1 tvg-id="54" tvg-name="beIN Sports MAX 6 France" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="54" group-title="",beIN Sports MAX 6 France
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=496
+#EXTINF:-1 tvg-id="55" tvg-name="beIN Sports MAX 7 France" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="55" group-title="",beIN Sports MAX 7 France
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=497
+#EXTINF:-1 tvg-id="56" tvg-name="beIN Sports MAX 8 France" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="56" group-title="",beIN Sports MAX 8 France
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=498
+#EXTINF:-1 tvg-id="57" tvg-name="beIN Sports MAX 9 France" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="57" group-title="",beIN Sports MAX 9 France
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=499
+#EXTINF:-1 tvg-id="58" tvg-name="beIN Sports MAX 10 France" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="58" group-title="",beIN Sports MAX 10 France
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=500
+#EXTINF:-1 tvg-id="59" tvg-name="beIN SPORTS 1 France" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="59" group-title="",beIN SPORTS 1 France
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=116
+#EXTINF:-1 tvg-id="60" tvg-name="beIN SPORTS 2 France" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="60" group-title="",beIN SPORTS 2 France
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=117
+#EXTINF:-1 tvg-id="61" tvg-name="beIN SPORTS 3 France" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="61" group-title="",beIN SPORTS 3 France
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=118
+#EXTINF:-1 tvg-id="62" tvg-name="beIN SPORTS 1 Turkey" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="62" group-title="",beIN SPORTS 1 Turkey
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=62
+#EXTINF:-1 tvg-id="63" tvg-name="beIN SPORTS 2 Turkey" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="63" group-title="",beIN SPORTS 2 Turkey
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=63
+#EXTINF:-1 tvg-id="64" tvg-name="beIN SPORTS 3 Turkey" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="64" group-title="",beIN SPORTS 3 Turkey
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=64
+#EXTINF:-1 tvg-id="65" tvg-name="beIN SPORTS 4 Turkey" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="65" group-title="",beIN SPORTS 4 Turkey
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=67
+#EXTINF:-1 tvg-id="66" tvg-name="BeIN Sports HD Qatar" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="66" group-title="",BeIN Sports HD Qatar
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=578
+#EXTINF:-1 tvg-id="67" tvg-name="BeIN SPORTS USA" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="67" group-title="",BeIN SPORTS USA
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=425
+#EXTINF:-1 tvg-id="68" tvg-name="beIN SPORTS en Espa単ol" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="68" group-title="",beIN SPORTS en Espa単ol
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=372
+#EXTINF:-1 tvg-id="69" tvg-name="beIN SPORTS Australia 1" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="69" group-title="",beIN SPORTS Australia 1
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=491
+#EXTINF:-1 tvg-id="70" tvg-name="beIN SPORTS Australia 2" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="70" group-title="",beIN SPORTS Australia 2
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=492
+#EXTINF:-1 tvg-id="71" tvg-name="beIN SPORTS Australia 3" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="71" group-title="",beIN SPORTS Australia 3
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=493
+#EXTINF:-1 tvg-id="72" tvg-name="Barca TV Spain" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="72" group-title="",Barca TV Spain
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=522
+#EXTINF:-1 tvg-id="73" tvg-name="Benfica TV PT" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="73" group-title="",Benfica TV PT
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=380
+#EXTINF:-1 tvg-id="74" tvg-name="Boomerang" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="74" group-title="",Boomerang
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=648
+#EXTINF:-1 tvg-id="75" tvg-name="BNT 1 Bulgaria" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="75" group-title="",BNT 1 Bulgaria
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=476
+#EXTINF:-1 tvg-id="76" tvg-name="BNT 2 Bulgaria" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="76" group-title="",BNT 2 Bulgaria
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=477
+#EXTINF:-1 tvg-id="77" tvg-name="BNT 3 Bulgaria" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="77" group-title="",BNT 3 Bulgaria
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=478
+#EXTINF:-1 tvg-id="78" tvg-name="BR Fernsehen DE" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="78" group-title="",BR Fernsehen DE
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=737
+#EXTINF:-1 tvg-id="79" tvg-name="bTV Bulgaria" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="79" group-title="",bTV Bulgaria
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=479
+#EXTINF:-1 tvg-id="80" tvg-name="bTV Action Bulgaria" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="80" group-title="",bTV Action Bulgaria
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=481
+#EXTINF:-1 tvg-id="81" tvg-name="bTV Lady Bulgaria" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="81" group-title="",bTV Lady Bulgaria
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=484
+#EXTINF:-1 tvg-id="82" tvg-name="BBC America (BBCA)" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="82" group-title="",BBC America (BBCA)
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=305
+#EXTINF:-1 tvg-id="83" tvg-name="BET USA" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="83" group-title="",BET USA
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=306
+#EXTINF:-1 tvg-id="84" tvg-name="Bravo USA" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="84" group-title="",Bravo USA
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=307
+#EXTINF:-1 tvg-id="85" tvg-name="BBC News Channel HD" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="85" group-title="",BBC News Channel HD
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=349
+#EXTINF:-1 tvg-id="86" tvg-name="BBC One UK" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="86" group-title="",BBC One UK
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=356
+#EXTINF:-1 tvg-id="87" tvg-name="BBC Two UK" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="87" group-title="",BBC Two UK
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=357
+#EXTINF:-1 tvg-id="88" tvg-name="BBC Three UK" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="88" group-title="",BBC Three UK
+https://tv.bdixtv24.co/daddy/stream.m3u8?id=358
+#EXTINF:-1 tvg-id="89" tvg-name="BBC Four UK" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddyliv
