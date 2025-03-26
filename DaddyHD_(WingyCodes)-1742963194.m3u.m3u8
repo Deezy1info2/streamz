@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="beuiLh" tvg-name="Sky Sports Main Event" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2eaccad07f7cb347bbab39b8cc2a4a2b16029d16247eca468226bc512b1daff96" tvg-chno="1" group-title="",Sky Sports Main Event
-https://cricman.xyz/watch.php?id=beuiLh&format=.m3u8
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="njZm8E" tvg-name="Sky Sports Cricket" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2391e415d01ae774e3ed66d0edf826466d6a96e5eb7ee1db80f95e3c5a6f81cd4" tvg-chno="2" group-title="",Sky Sports Cricket
 https://cricman.xyz/watch.php?id=njZm8E&format=.m3u8
 #EXTINF:-1 tvg-id="0RVksL" tvg-name="Sky Sports Action" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef20db99d201fdb191be5ab03c650ad2cd4a773ebfaa23d1ba49541988a032950a3" tvg-chno="3" group-title="",Sky Sports Action
