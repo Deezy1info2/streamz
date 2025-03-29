@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1" tvg-name="ABC USA" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="1" group-title="",ABC USA
+#EXTINF:-1 tvg-id="1" tvg-name="ABC USA" tvg-country="US" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrewIh0WWT8hDicOG_9CdCWlx3gHdOePncXQ&s" tvg-chno="1" group-title="",ABC USA
 https://tv.bdixtv24.co/daddy/stream.m3u8?id=51
 #EXTINF:-1 tvg-id="2" tvg-name="A&E USA" tvg-country="US" tvg-logo="https://tv.bdixtv24.co/daddy/assets/daddylive.png" tvg-chno="2" group-title="",A&E USA
 https://tv.bdixtv24.co/daddy/stream.m3u8?id=302
