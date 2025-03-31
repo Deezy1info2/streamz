@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beuiLh" tvg-name="Sky Sports Main Event" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2eaccad07f7cb347bbab39b8cc2a4a2b16029d16247eca468226bc512b1daff96" tvg-chno="1" group-title="",Sky Sports Main Event
+https://cricman.xyz/watch.php?id=beuiLh&format=.m3u8
+#EXTINF:-1 tvg-id="njZm8E" tvg-name="Sky Sports Cricket" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2391e415d01ae774e3ed66d0edf826466d6a96e5eb7ee1db80f95e3c5a6f81cd4" tvg-chno="2" group-title="",Sky Sports Cricket
+https://cricman.xyz/watch.php?id=njZm8E&format=.m3u8
+#EXTINF:-1 tvg-id="0RVksL" tvg-name="Sky Sports Action" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef20db99d201fdb191be5ab03c650ad2cd4a773ebfaa23d1ba49541988a032950a3" tvg-chno="3" group-title="",Sky Sports Action
+https://cricman.xyz/watch.php?id=0RVksL&format=.m3u8
+#EXTINF:-1 tvg-id="BTvXrR" tvg-name="Sky Sports Premiere League" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2cbf070df123e3ee15d649d96145d7310fd9fa91559af6eb3e077a699353fb2e4" tvg-chno="5" group-title="",Sky Sports Premiere League
+https://cricman.xyz/watch.php?id=BTvXrR&format=.m3u8
+#EXTINF:-1 tvg-id="oThYz3" tvg-name="Sky Sports Football" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef27f4def5b08301fb264bcac656d01c701d5fa65614c303e0ef6b94a5d41c2fc0d" tvg-chno="6" group-title="",Sky Sports Football
+https://cricman.xyz/watch.php?id=oThYz3&format=.m3u8
+#EXTINF:-1 tvg-id="v9HbT5" tvg-name="Sky Sports Arena" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef23ee6f3b4eaa7f25a8dc84b7d6f6fe61724499cb715dde09758fa239511a9e138" tvg-chno="7" group-title="",Sky Sports Arena
+https://cricman.xyz/watch.php?id=v9HbT5&format=.m3u8
+#EXTINF:-1 tvg-id="ZGiFHJ" tvg-name="Sky Sports Mix" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef218082a05d31d2f0e2300f96b037de95df0c1ccbaac7df797fc6b823779fcb771" tvg-chno="9" group-title="",Sky Sports Mix
+https://cricman.xyz/watch.php?id=ZGiFHJ&format=.m3u8
+#EXTINF:-1 tvg-id="gYD0Gh" tvg-name="Sky Sports News" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef22ba68e0cf7673799297804e5c768bae32bed1fe46c12f9b42c1f4072e0a919d9" tvg-chno="10" group-title="",Sky Sports News
+https://cricman.xyz/watch.php?id=gYD0Gh&format=.m3u8
+#EXTINF:-1 tvg-id="70Gn7T" tvg-name="Sky Sport 1" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef26f06a9bf20ce982b3a1bf84a6bfcd5f8161cb1661ab30c75272d746ad4ef06a0" tvg-chno="20" group-title="",Sky Sport 1
+https://cricman.xyz/watch.php?id=70Gn7T&format=.m3u8
+#EXTINF:-1 tvg-id="NXqJJV" tvg-name="Sky Sport 2" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef26f06a9bf20ce982b3a1bf84a6bfcd5f8af58a3ed454df2d3ee375666671e87e0" tvg-chno="21" group-title="",Sky Sport 2
+https://cricman.xyz/watch.php?id=NXqJJV&format=.m3u8
+#EXTINF:-1 tvg-id="BtwF2a" tvg-name="Sky Sport 3" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066be65c206a13ff68f2eec6b01e669e312c" tvg-chno="22" group-title="",Sky Sport 3
+https://cricman.xyz/watch.php?id=BtwF2a&format=.m3u8
+#EXTINF:-1 tvg-id="vW70Vv" tvg-name="Sky Sport 4" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef26f06a9bf20ce982b3a1bf84a6bfcd5f8ef6a195fc994c93f72c20bb7ba4862d9" tvg-chno="23" group-title="",Sky Sport 4
+https://cricman.xyz/watch.php?id=vW70Vv&format=.m3u8
+#EXTINF:-1 tvg-id="K4bgDm" tvg-name="Sky Sport 5" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066b05f1b4f68e442ceae50cb9365f58ffa5" tvg-chno="24" group-title="",Sky Sport 5
+https://cricman.xyz/watch.php?id=K4bgDm&format=.m3u8
+#EXTINF:-1 tvg-id="JM1ZQh" tvg-name="Sky Sport 6" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066b2bbb5b9515bb8d8a5fe89bf9fbb7d1d6" tvg-chno="25" group-title="",Sky Sport 6
+https://cricman.xyz/watch.php?id=JM1ZQh&format=.m3u8
+#EXTINF:-1 tvg-id="j4dWnY" tvg-name="Sky Sport 7" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066b2a86b7d0be2b09fa96821a266fea05b7" tvg-chno="26" group-title="",Sky Sport 7
+https://cricman.xyz/watch.php?id=j4dWnY&format=.m3u8
+#EXTINF:-1 tvg-id="s3j6fY" tvg-name="Sky Sport 8" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066b87d0b2c20d279254dc39653f842133ce" tvg-chno="27" group-title="",Sky Sport 8
+https://cricman.xyz/watch.php?id=s3j6fY&format=.m3u8
+#EXTINF:-1 tvg-id="g9QlcM" tvg-name="Sky Sport 9" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2bb2f75bd275b9afffb47ee8072fd066b4a5f4f895e24bd4ab1ea66af8cc291f0" tvg-chno="28" group-title="",Sky Sport 9
+https://cricman.xyz/watch.php?id=g9QlcM&format=.m3u8
+#EXTINF:-1 tvg-id="kNdLEI" tvg-name="Super Sport Football" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef247cf6ca445d3ff99a114d90025ebab2c7c14a6fe074f58c46c3dce2e5c05c0bb" tvg-chno="29" group-title="",Super Sport Football
+https://cricman.xyz/watch.php?id=kNdLEI&format=.m3u8
+#EXTINF:-1 tvg-id="i0nb8s" tvg-name="Super Sport Premiere League" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2c86fbaa7f9ca98a0948553746f0d75b96cc368b9621710a76beb6dc78b35b554" tvg-chno="30" group-title="",Super Sport Premiere League
+https://cricman.xyz/watch.php?id=i0nb8s&format=.m3u8
+#EXTINF:-1 tvg-id="2uZxyz" tvg-name="Super Sport Laliga" tvg-genre="Sports" tvg-language="English" tvg-logo="https://cricman.xyz/api.php?action=get_logo&payload=285f93b8934e89bbe119aa05b869451af0f423cbbf7dc39e92c089b178884ef2f819200c1c27f9ed05d0932849138d8dd99bcf0c3813fac3adc51739680d0129" tvg-chno="31" group-title="",Super Sport Laliga
+https://cricman.xyz/watch.php?id=2uZxyz&format=.m3u8
